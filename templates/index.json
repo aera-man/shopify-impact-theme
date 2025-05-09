@@ -81,12 +81,12 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#000000"
       }
     },
     "featured-product": {
@@ -123,6 +123,13 @@
           "settings": {
             "title": "DESCRIPTION",
             "content": "{{ section.settings.product.description }}"
+          }
+        },
+        "collapsible_text_L6rtLa": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "SHIPPING",
+            "content": "<p><strong>Free Express Shipping on orders over €45</strong><br/>Choose between <strong>Priority or Standard</strong> shipping at checkout. Duties and taxes are included.</p><p><strong>Shipping Times:</strong></p><ul><li><strong>Europe & U.S.:</strong> 4-8 business days</li><li><strong>Rest of the World:</strong> 5-10 business days</li></ul>"
           }
         },
         "description": {
@@ -166,6 +173,7 @@
         "rating",
         "separator",
         "collapsible_text_4pbyjB",
+        "collapsible_text_L6rtLa",
         "description",
         "variant-picker",
         "quantity-selector",
