@@ -144,6 +144,7 @@
         },
         "quantity-selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy-buttons": {
