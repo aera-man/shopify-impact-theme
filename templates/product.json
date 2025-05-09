@@ -165,11 +165,103 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "image_link_blocks_ptE6GM": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_TcKFbz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_96186fe0-764f-4c55-8711-bbb3b85f1c71.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Vm6x3F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/O_que_significa_cada_cor_do_Apple_Watch.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CfXUy7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-09_1.04.40.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_K8tdCL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CxCQmL": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_TcKFbz",
+        "item_Vm6x3F",
+        "item_CfXUy7",
+        "item_K8tdCL",
+        "item_CxCQmL"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": true,
+        "block_size": "large",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "newsletter_8examQ"
+    "newsletter_8examQ",
+    "image_link_blocks_ptE6GM"
   ]
 }
