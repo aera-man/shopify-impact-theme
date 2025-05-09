@@ -85,6 +85,46 @@
         "text_gradient": ""
       }
     },
+    "rich_text_dfJrLd": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_eAP3c4": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_JWkaka": {
+          "type": "heading",
+          "settings": {
+            "text": "- MEET AERA TECH -",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_eHXyqt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em><strong>AERA </strong></em><strong>Tech </strong>blends cutting-edge innovation with sleek design to create smartwatches that elevate everyday life — where technology meets lifestyle, effortlessly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eAP3c4",
+        "heading_JWkaka",
+        "richtext_eHXyqt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -659,6 +699,7 @@
   "order": [
     "slideshow",
     "scrolling-text",
+    "rich_text_dfJrLd",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
