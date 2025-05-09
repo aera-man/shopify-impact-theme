@@ -48,9 +48,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/image_1.png",
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/Handdrawn_Circle_Logo-5-removebg-preview.png",
+        "logo_max_width": 80,
+        "logo_mobile_max_width": 55,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
