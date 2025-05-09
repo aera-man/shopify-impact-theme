@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "SUMER SALE 50% OFF",
+            "url": ""
+          }
+        },
+        "message_3qVHbR": {
+          "type": "message",
+          "settings": {
+            "text": "AERA TECH",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_3qVHbR"
       ],
       "settings": {
         "enable_sticky": false,
