@@ -253,7 +253,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/O_que_significa_cada_cor_do_Apple_Watch.jpg",
-            "title": "",
+            "title": "MINIMAL",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -275,7 +275,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/2025-05-09_1.04.40.png",
-            "title": "",
+            "title": "CONNECTED",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -297,7 +297,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1.jpg",
-            "title": "",
+            "title": "PERFORMANCE",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
