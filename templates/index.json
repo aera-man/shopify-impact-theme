@@ -231,7 +231,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1_96186fe0-764f-4c55-8711-bbb3b85f1c71.jpg",
-            "title": "",
+            "title": "PRECISION",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -241,7 +241,7 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "#000000",
             "button_text_color": "#ffffff",
