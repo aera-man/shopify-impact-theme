@@ -71,6 +71,13 @@
             "content": "{{ product.description }}"
           }
         },
+        "collapsible_text_mBadQk": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "SHIPPING AND RETURNS",
+            "content": "<p><strong>Free Express Shipping on orders over €45</strong><br/>Choose between <strong>Priority or Standard</strong> shipping at checkout. Duties and taxes are included.</p><p><strong>Shipping Times:</strong></p><ul><li><strong>Europe & U.S.:</strong> 4-8 business days</li><li><strong>Rest of the World:</strong> 5-10 business days</li></ul>"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -98,6 +105,7 @@
         "description",
         "variant_picker",
         "collapsible_text_RzVBj8",
+        "collapsible_text_mBadQk",
         "quantity_selector",
         "buy_buttons"
       ],
