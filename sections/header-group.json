@@ -27,11 +27,19 @@
             "text": "AERA TECH",
             "url": ""
           }
+        },
+        "message_FpwmYB": {
+          "type": "message",
+          "settings": {
+            "text": "🌍 SHIPPING WORLDWIDE 🌍",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_3qVHbR"
+        "message_3qVHbR",
+        "message_FpwmYB"
       ],
       "settings": {
         "enable_sticky": false,
