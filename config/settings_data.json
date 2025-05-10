@@ -38,7 +38,7 @@
     "show_product_rating": true,
     "discount_mode": "saving",
     "product_color_display": "variant",
-    "product_info_alignment": "start",
+    "product_info_alignment": "center",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
