@@ -120,11 +120,64 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#fff",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_N4CBPM": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_niKPL9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1-9-watch-8-android-ios-kapil-yes-original-imagmg6yuszkfpgr.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Smart Sensor",
+            "content": "<p>Stay in tune with your body, heart, sleep, and breath.<br/>Built for daily life.<br/>Light on the wrist, big on balance.</p>"
+          }
+        },
+        "item_agifKF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-10_1.17.13.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Durable, Stylish Protection",
+            "content": "<p>The T800 Ultra features a sleek, durable case that’s designed to withstand daily wear. Lightweight yet sturdy, it combines style with functionality, making it the perfect accessory for any occasion. Built to keep up with your active lifestyle.</p>"
+          }
+        },
+        "item_g99MXE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/t800-ultra.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Effortless Charging",
+            "content": "<p>The T800 Ultra offers quick and convenient charging, so you can spend less time plugged in and more time on the move. With a simple magnetic connection, it powers up fast, ensuring you're always ready to go.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_niKPL9",
+        "item_agifKF",
+        "item_g99MXE"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "image_link_blocks_ptE6GM": {
@@ -260,6 +313,7 @@
   },
   "order": [
     "main",
+    "images_with_text_scrolling_N4CBPM",
     "image_link_blocks_ptE6GM",
     "related-products",
     "newsletter_8examQ"
