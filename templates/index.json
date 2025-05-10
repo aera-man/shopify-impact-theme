@@ -258,6 +258,59 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "images_with_text_scrolling_wXaXeU": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_93pAc7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1-9-watch-8-android-ios-kapil-yes-original-imagmg6yuszkfpgr.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Smart Sensor",
+            "content": "<p>Stay in tune with your body, heart, sleep, and breath.<br/>Built for daily life.<br/>Light on the wrist, big on balance.</p>"
+          }
+        },
+        "item_RyRQVe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-10_1.17.13.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Durable, Stylish Protection",
+            "content": "<p>The T800 Ultra features a sleek, durable case that’s designed to withstand daily wear. Lightweight yet sturdy, it combines style with functionality, making it the perfect accessory for any occasion. Built to keep up with your active lifestyle.</p>"
+          }
+        },
+        "item_LMD3zH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/t800-ultra.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Effortless Charging",
+            "content": "<p>The T800 Ultra offers quick and convenient charging, so you can spend less time plugged in and more time on the move. With a simple magnetic connection, it powers up fast, ensuring you're always ready to go.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_93pAc7",
+        "item_RyRQVe",
+        "item_LMD3zH"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -568,6 +621,70 @@
         "accordion_text_color": ""
       }
     },
+    "shop_the_look_63zDmg": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product_EfJFPC": {
+          "type": "product",
+          "settings": {
+            "product": "new-watch-t800-u2-smart-watch-49mm-2024-new-nfc-men-women-gps-track-bluetooth-call-bt-music-games-wireless-charging-smartwatch",
+            "horizontal_position": 52,
+            "vertical_position": 25
+          }
+        }
+      },
+      "block_order": [
+        "product_EfJFPC"
+      ],
+      "name": "Shop the look",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "image": "shopify://shop_images/2025-05-10_10.41.39.png",
+        "title": "SHOP THE LOOK",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "product_card_mobile_background": "",
+        "product_card_mobile_text_color": "",
+        "background_dots": "#ffffff"
+      }
+    },
+    "rich_text_UY7yee": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_z9NCqe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>MORE THAN A WATCH</strong></p>"
+          }
+        },
+        "richtext_dzpX4n": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A lifestyle companion that <strong>tracks</strong>, <strong>connects</strong>, and <strong>elevates</strong> your <em><strong>every moment.</strong></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_z9NCqe",
+        "richtext_dzpX4n"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_KVFMf8": {
       "type": "image-link-blocks",
       "blocks": {
@@ -659,40 +776,6 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "shop_the_look_63zDmg": {
-      "type": "shop-the-look",
-      "blocks": {
-        "product_EfJFPC": {
-          "type": "product",
-          "settings": {
-            "product": "new-watch-t800-u2-smart-watch-49mm-2024-new-nfc-men-women-gps-track-bluetooth-call-bt-music-games-wireless-charging-smartwatch",
-            "horizontal_position": 52,
-            "vertical_position": 25
-          }
-        }
-      },
-      "block_order": [
-        "product_EfJFPC"
-      ],
-      "name": "Shop the look",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "image": "shopify://shop_images/2025-05-10_10.41.39.png",
-        "title": "SHOP THE LOOK",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": "",
-        "product_card_mobile_background": "",
-        "product_card_mobile_text_color": "",
-        "background_dots": "#ffffff"
-      }
     }
   },
   "order": [
@@ -701,11 +784,13 @@
     "featured-product",
     "rich_text_8HgHGF",
     "1746874438577b2402",
+    "images_with_text_scrolling_wXaXeU",
     "impact-text",
     "media-grid",
     "feature-chart",
     "faq",
     "shop_the_look_63zDmg",
+    "rich_text_UY7yee",
     "image_link_blocks_KVFMf8"
   ]
 }
