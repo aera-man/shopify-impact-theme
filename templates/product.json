@@ -64,6 +64,22 @@
             "size_chart_page": ""
           }
         },
+        "kefi_upsells_volume_position_ECRkVN": {
+          "type": "shopify://apps/kefi-upsells/blocks/VolumePosition/a54b549a-0a53-4f58-b095-45369cafa8e7",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "collapsible_text_RzVBj8": {
           "type": "collapsible_text",
           "settings": {
@@ -81,17 +97,6 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
         }
       },
       "block_order": [
@@ -104,10 +109,11 @@
         "separator",
         "description",
         "variant_picker",
+        "kefi_upsells_volume_position_ECRkVN",
+        "buy_buttons",
         "collapsible_text_RzVBj8",
         "collapsible_text_mBadQk",
-        "quantity_selector",
-        "buy_buttons"
+        "quantity_selector"
       ],
       "settings": {
         "full_width": true,
