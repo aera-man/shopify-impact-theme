@@ -108,7 +108,7 @@
           "type": "text",
           "settings": {
             "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Discover our brand and vision—crafted to inspire and elevate your lifestyle.</p>",
             "enable_follow_on_shop": true
           }
         }
