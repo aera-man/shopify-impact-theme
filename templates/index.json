@@ -203,6 +203,61 @@
         "input_text_color": ""
       }
     },
+    "rich_text_8HgHGF": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_aTyH93": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>WHAT OUR CUSTOMERS ARE SAYING</strong></p>"
+          }
+        },
+        "richtext_VWD7iY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover why people love the T800 Ultra. <strong>Real reviews, real satisfaction.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_aTyH93",
+        "richtext_VWD7iY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1746874438577b2402": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_card_carousel_A37AQp": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/card-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_card_carousel_A37AQp"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -552,6 +607,8 @@
     "slideshow",
     "rich_text_dfJrLd",
     "featured-product",
+    "rich_text_8HgHGF",
+    "1746874438577b2402",
     "impact-text",
     "media-grid",
     "feature-chart",
