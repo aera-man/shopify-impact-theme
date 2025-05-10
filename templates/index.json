@@ -372,7 +372,7 @@
           "settings": {
             "product": "",
             "value_1": "<p><strong>AERA TECH</strong></p>",
-            "value_2": "<h5>✅ </h5>",
+            "value_2": "<h4>✅ </h4>",
             "value_3": "<p>Yes</p>",
             "value_4": "<p>Yes</p>",
             "value_5": "",
@@ -400,7 +400,7 @@
           "settings": {
             "product": "",
             "value_1": "<p><strong>OTHER BRANDS</strong></p>",
-            "value_2": "<h5>❌</h5>",
+            "value_2": "<h4>❌</h4>",
             "value_3": "<p>Yes</p>",
             "value_4": "<p>No</p>",
             "value_5": "",
