@@ -345,7 +345,7 @@
         "16644246508f6fa13a-0": {
           "type": "headings",
           "settings": {
-            "heading_1": "Heading 1",
+            "heading_1": "COMPARISON",
             "heading_2": "Heading 2",
             "heading_3": "Heading 3",
             "heading_4": "Heading 4",
@@ -371,10 +371,10 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>Yes</p>",
+            "value_1": "<p><strong>AERA TECH</strong></p>",
             "value_2": "<p>Yes</p>",
-            "value_3": "<p>No</p>",
-            "value_4": "<p>No</p>",
+            "value_3": "<p>Yes</p>",
+            "value_4": "<p>Yes</p>",
             "value_5": "",
             "value_6": "",
             "value_7": "",
@@ -399,7 +399,7 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>No</p>",
+            "value_1": "<p><strong>OTHER BRANDS</strong></p>",
             "value_2": "<p>Yes</p>",
             "value_3": "<p>Yes</p>",
             "value_4": "<p>No</p>",
@@ -432,7 +432,7 @@
       "settings": {
         "full_width": true,
         "subheading": "Compare",
-        "title": "Product specification",
+        "title": "ULTRA SMARTWATCH",
         "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
         "button_text": "",
         "button_url": "",
