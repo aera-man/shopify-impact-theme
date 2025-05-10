@@ -776,6 +776,23 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "newsletter_DiPk7x": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "NEWSLETTER",
+        "content": "<p>By subscribing, you’ll get early access to new releases, special discounts, and insider tips to elevate your lifestyle. Stay ahead with exclusive offers and updates straight to your inbox.</p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -791,6 +808,7 @@
     "faq",
     "shop_the_look_63zDmg",
     "rich_text_UY7yee",
-    "image_link_blocks_KVFMf8"
+    "image_link_blocks_KVFMf8",
+    "newsletter_DiPk7x"
   ]
 }
