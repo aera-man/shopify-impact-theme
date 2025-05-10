@@ -347,7 +347,7 @@
           "settings": {
             "heading_1": "COMPARISON",
             "heading_2": "AFFORDABLE",
-            "heading_3": "Heading 3",
+            "heading_3": "BATTERY LIFE",
             "heading_4": "Heading 4",
             "heading_5": "",
             "heading_6": "",
@@ -400,7 +400,7 @@
           "settings": {
             "product": "",
             "value_1": "<p><strong>OTHER BRANDS</strong></p>",
-            "value_2": "<p>Yes</p>",
+            "value_2": "<h5>❌</h5>",
             "value_3": "<p>Yes</p>",
             "value_4": "<p>No</p>",
             "value_5": "",
