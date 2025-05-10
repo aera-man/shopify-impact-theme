@@ -104,7 +104,6 @@
         },
         "badges": {
           "type": "badges",
-          "disabled": true,
           "settings": {}
         },
         "price": {
