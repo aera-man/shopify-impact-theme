@@ -98,8 +98,13 @@
             "heading_tag": "h3"
           }
         },
+        "trustoo_io_reviews_review_widget_XMhBm6": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {}
+        },
         "badges": {
           "type": "badges",
+          "disabled": true,
           "settings": {}
         },
         "price": {
@@ -168,6 +173,7 @@
       },
       "block_order": [
         "title",
+        "trustoo_io_reviews_review_widget_XMhBm6",
         "badges",
         "price",
         "rating",
