@@ -346,7 +346,7 @@
           "type": "headings",
           "settings": {
             "heading_1": "COMPARISON",
-            "heading_2": "Heading 2",
+            "heading_2": "AFFORDABLE",
             "heading_3": "Heading 3",
             "heading_4": "Heading 4",
             "heading_5": "",
@@ -372,7 +372,7 @@
           "settings": {
             "product": "",
             "value_1": "<p><strong>AERA TECH</strong></p>",
-            "value_2": "<p>Yes</p>",
+            "value_2": "<h5>✅ </h5>",
             "value_3": "<p>Yes</p>",
             "value_4": "<p>Yes</p>",
             "value_5": "",
