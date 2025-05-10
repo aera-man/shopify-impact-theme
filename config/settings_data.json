@@ -54,6 +54,11 @@
         "type": "shopify://apps/kefi-upsells/blocks/kefi/a54b549a-0a53-4f58-b095-45369cafa8e7",
         "disabled": false,
         "settings": {}
+      },
+      "1884528899478270862": {
+        "type": "shopify://apps/shortly/blocks/app-embed/f8b85b17-5c26-444a-abdf-6ce2b3d1bdb0",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
