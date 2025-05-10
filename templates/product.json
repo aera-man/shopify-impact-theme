@@ -66,7 +66,6 @@
         },
         "kefi_upsells_volume_position_ECRkVN": {
           "type": "shopify://apps/kefi-upsells/blocks/VolumePosition/a54b549a-0a53-4f58-b095-45369cafa8e7",
-          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
