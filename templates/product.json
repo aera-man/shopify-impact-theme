@@ -238,6 +238,7 @@
         "item_CxCQmL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2025-05-09_8.10.14.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
