@@ -35,6 +35,7 @@
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "color_swatch_style": "round",
+    "show_product_rating": true,
     "discount_mode": "saving",
     "product_color_display": "variant",
     "product_info_alignment": "start",
