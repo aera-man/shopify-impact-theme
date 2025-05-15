@@ -122,19 +122,13 @@
           "type": "separator",
           "settings": {}
         },
-        "bundler_custom_bundle_z6DPLM": {
-          "type": "shopify://apps/bundler/blocks/custom-bundle/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
-          "settings": {
-            "shortcode": ""
-          }
-        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_mode": "block",
-            "color_mode": "color",
+            "color_mode": "variant",
             "size_chart_page": ""
           }
         },
@@ -183,7 +177,6 @@
         "price",
         "rating",
         "separator",
-        "bundler_custom_bundle_z6DPLM",
         "variant-picker",
         "collapsible_text_4pbyjB",
         "collapsible_text_L6rtLa",
