@@ -60,11 +60,6 @@
           "custom_script_and_style": "<script></script>\n<style></style>"
         }
       },
-      "16605207545338212596": {
-        "type": "shopify://apps/aov-bundle-upsell/blocks/aov-offer/0335d423-143c-4ad7-b224-99a1db74a9ee",
-        "disabled": false,
-        "settings": {}
-      },
       "14652898158514659544": {
         "type": "shopify://apps/fly-bundles-upsell/blocks/app-embed/26807bdc-c2ed-4a25-afb2-06e6b1ebf843",
         "disabled": false,
