@@ -77,10 +77,6 @@
             "size_chart_page": ""
           }
         },
-        "aov_bundle_upsell_offer_volume_6a6fec": {
-          "type": "shopify://apps/aov-bundle-upsell/blocks/offer-volume/0335d423-143c-4ad7-b224-99a1db74a9ee",
-          "settings": {}
-        },
         "collapsible_text_RzVBj8": {
           "type": "collapsible_text",
           "settings": {
@@ -97,7 +93,6 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
@@ -125,7 +120,6 @@
         "dealeasy_vd_cards_T8kwG9",
         "description",
         "variant_picker",
-        "aov_bundle_upsell_offer_volume_6a6fec",
         "collapsible_text_RzVBj8",
         "collapsible_text_mBadQk",
         "buy_buttons",
