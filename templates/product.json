@@ -33,6 +33,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_EiHq9Y": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Custom product inventory alert -->\n<div class=\"custom-inventory-warning\">\n  <span class=\"dot\"></span>\n  <span class=\"text\">Only a few watches left</span>\n</div>\n\n<style>\n.custom-inventory-warning {\n  display: flex;\n  align-items: center;\n  font-family: Arial, sans-serif;\n  font-size: 18px;\n  color: #f37021; /* Orange color */\n  margin-top: 10px;\n}\n\n.custom-inventory-warning .dot {\n  height: 8px;\n  width: 8px;\n  background-color: #f37021;\n  border-radius: 50%;\n  display: inline-block;\n  margin-right: 8px;\n  margin-top: 2px;\n}\n</style>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -104,6 +110,7 @@
         "title",
         "badges",
         "price",
+        "liquid_EiHq9Y",
         "rating",
         "payment_terms",
         "separator",
